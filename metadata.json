@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo to Video Creator",
+  "description": "An application to convert a series of photos into an MP4 video with Ken Burns and transition effects. Includes an AI-powered title suggestion feature using Gemini API.",
+  "requestFramePermissions": []
+}
